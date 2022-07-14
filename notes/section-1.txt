@@ -1,0 +1,51 @@
+SECTION 1: GETTING STARTED
+    1.2 What is React.js
+        traditionally websites require a request to the server and for the browser to recieve the page.
+
+        JS breaks up the request and response cycle, through in-browser logic and asynchonous loading. 
+
+        React is a client-side js library for building reactive UI. 
+
+    1.3 Why React Instead of "Just JS"
+        Imperative Approach, a way of programming where every action is described step-by-step.
+
+        React allows for custom HTML and splitting up code into smaller, more manageable chunks through a declarative, component-focused approach.
+
+    1.4 Building SPAs with React
+        Reach can be used to control parts of a page or the entire page.
+
+        SPA Approach - server only sends one HTML page, thereafter, react takes over and controls the UI.
+
+    1.5 React Alternatives
+        React - lean and focused component-based UI library with features (ex. routing) added by community packages.
+
+        Vue - Complete component-based framework, includes most core features. (less popular, but more middle ground with less community-based but not as comprehensive as angular)
+
+        Angular - complete component-based UI framework, packed with features. Uses TypeScript.
+
+    1.7 About Course & Outline
+        1 - Basics and foundations, key features
+            a. components and building UIs
+            b. working with events and data (props / state)
+            c. styling react apps and components
+            d. intro to react hooks
+
+        2 - Advance concepts, building for production
+            a. side effects, refs (and more) and react hooks
+            b. app wide state management (react's context api and redux)
+            c. handeling user inpu (forms, http requests, and custom hooks)
+            d. impliment rounting, deployment, next.js (builds on top of react) and more
+
+        3 - Summaries and refreshers, revisite course concepts
+            a. js refresher
+            b. react summary
+
+        Building skill through:
+            - Theory and demo/examples
+            - Realistic example projects
+            - Challenges and exercises
+
+    1.10 Setting Up Dev Environment
+        VS Code extensions:
+            - Prettier
+            - Matterial Icon Theme (changes file icons)
